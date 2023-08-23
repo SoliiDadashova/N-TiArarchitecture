@@ -1,0 +1,15 @@
+C:\Users\compo\Desktop\c#\Shopping\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\compo\Desktop\c#\Shopping\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\compo\Desktop\c#\Shopping\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\compo\Desktop\c#\Shopping\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\compo\Desktop\c#\Shopping\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\compo\Desktop\c#\Shopping\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\compo\Desktop\c#\Shopping\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\compo\Desktop\c#\Shopping\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\compo\Desktop\c#\Shopping\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\compo\Desktop\c#\Shopping\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\compo\Desktop\c#\Shopping\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\compo\Desktop\c#\Shopping\DataAccessLayer\obj\Debug\net5.0\refint\DataAccessLayer.dll
+C:\Users\compo\Desktop\c#\Shopping\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\compo\Desktop\c#\Shopping\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\compo\Desktop\c#\Shopping\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
